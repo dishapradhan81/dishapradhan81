@@ -1,4 +1,4 @@
-Hi there, I am Disha Pradhan!
+# Hi there, I am Disha Pradhan!
 
 ## About
 I'm a passionate Data Analyst with a strong background in data analysis, visualization, and machine learning. I love turning data into actionable insights and making data-driven decisions.
@@ -17,3 +17,9 @@ I'm a passionate Data Analyst with a strong background in data analysis, visuali
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+
+
+## Certifications
+- Microsoft and LikedIn Data Analyst
+- Quantium Data Analyst
