@@ -28,7 +28,7 @@ I'm a passionate Data Analyst with a strong background in data analysis, visuali
 
 ## Projects
 
-### [Project 1: Summer Sales Analysis using Python](https://github.com/dishapradhan81/customer-segmentation)
+### [Project 1: Summer Sales Analysis using Python]((https://github.com/dishapradhan81/pythonDA.git)
 Aimed to improve customer experience and increase revenue by gaining actionable insights from data, informing strategic decisions and targeted marketing efforts.
 
 ### [Project 2: Credit Card Financial Dashboard using Power BI](https://github.com/dishapradhan81/credit_card_Power-BI.git)
