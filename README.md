@@ -34,5 +34,5 @@ Aimed to improve customer experience and increase revenue by gaining actionable 
 ### [Project 2: Credit Card Financial Dashboard using Power BI](https://github.com/dishapradhan81/credit_card_Power-BI.git)
 Analyzed sales data to uncover trends and insights using Python and Tableau.
 
-### [Project 3: Music Store Analysis using MySQL](https://github.com/dishapradhan81/Music Store.git)
+### [Project 3: Music Store Analysis using MySQL](https://github.com/dishapradhan81/Music-Store_Analysis_MySQL-.git)
 Built a predictive model to anticipate machinery failures using machine learning techniques.
