@@ -1,7 +1,7 @@
 # Hi there, I am Disha Pradhan!
 
 ## About
-I'm a passionate Data Analyst with a strong background in data analysis, visualization, and machine learning. I love turning data into actionable insights and making data-driven decisions.
+A Data Analyst proficient in data analysis and visualization. Experienced in transforming data into valuable insights to facilitate data-driven decision-making.
 
 
 ## Tech Stack
